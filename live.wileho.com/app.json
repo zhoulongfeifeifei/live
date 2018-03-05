@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarTitleText":"小课题",
+    "navigationBarTextStyle":"white",
+    "navigationBarBackgroundColor":"#d84d3a",
+    "backgroundColor":"#d84d3a",
+    "enablePullDownRefresh":false
+  },
+  "networkTimeout": {
+    "request":10000,
+    "downloadFile":10000,
+    "connectSocket":10000,
+    "uploadFile":10000
+  }
+}

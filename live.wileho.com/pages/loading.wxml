@@ -1,0 +1,4 @@
+<view class="loading" wx:if="{{inloading}}">
+  <view><i class="iconfont icon-jiazai"></i></view>
+  <view>{{inloading_text}}</view>
+</view>
