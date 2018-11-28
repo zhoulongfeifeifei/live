@@ -1,5 +1,5 @@
 var page_name = "index";
-//ffff
+//ffffdd
 var app = getApp();
 var api_fun = function(that) {
     app.func.ajax('api-index-index.api', 'GET', {}, app.globalData.token, function(json_data) {
