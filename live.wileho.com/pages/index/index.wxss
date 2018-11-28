@@ -32,6 +32,7 @@ live-pusher{
     vertical-align: top;
     border-radius: 40rpx;
     background-color: #d84d3a;
-    margin: 0 20rpx;
+    margin: 0 22rpx;
 }
-
+/* ddd */
+     
