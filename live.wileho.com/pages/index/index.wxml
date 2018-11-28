@@ -2,7 +2,7 @@
     <live-pusher id="pusher" url="{{live_push_url}}" mode="HD" beauty="3" whiteness="5">
       <cover-view class="button">
         <cover-view class="but" bindtap="Live_Start" wx:if="{{!live_status}}">开始直播拉</cover-view>
-        <cover-view class="but" bindtap="Live_Stop" wx:if="{{live_status}}">结束直播</cover-view>
+        <cover-view class="but" bindtap="Live_Stop" wx:if="{{live_status}}">结束直播拉</cover-view>
         <cover-view class="but" bindtap="Live_Switch_Camera">切换摄像头</cover-view>
       </cover-view>
     </live-pusher>
